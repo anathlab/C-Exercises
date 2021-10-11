@@ -1,4 +1,4 @@
-# Nokia-Basic-Tasks
+# C++ Exercises
 Types, Functions and Macros,  Operators, Structures and classes, Inheritance and polymorphism, Type casting, Templates, Memory managment, STL, Lambdas
 <br>
 To compile in C++ 11 standard:
